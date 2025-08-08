@@ -1,0 +1,28 @@
+# NOTICE 
+
+### Original
+This project includes code originally developed in:
+
+**Ink**
+Author: [John Sundell](https://github.com/johnsundell/ink)
+Copyright © 2019 John Sundell
+Licensed under the MIT License (see LICENSE file)
+
+---
+
+### Fork and Modifications
+
+This project is a fork of **Ink** and is now maintained under the name:
+
+**Syntax**
+Maintainer: Thiago Campos
+Copyright © 2025 Thiago Campos
+
+Significant changes have been made to the original codebase, including:
+
+* Renaming of products
+* Upgrade to Swift Tools version 6.2
+* Deletion of the command-line interface application
+* Major restructuring of the package, dependencies, and modules
+
+All original and modified code remains under the MIT License.
